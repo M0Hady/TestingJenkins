@@ -1,0 +1,5 @@
+/home/ec2-user/Project1/.terraform.lock.hcl
+/home/ec2-user/Project1/.terraform/
+/home/ec2-user/Project1/auth.tf
+/home/ec2-user/Project1/terraform.tfstate
+/home/ec2-user/Project1/terraform.tfstate.backup
